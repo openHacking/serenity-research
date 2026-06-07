@@ -1,0 +1,4 @@
+interface:
+  display_name: "Serenity Research"
+  short_description: "Maps themes into scarce-layer research"
+  default_prompt: "Use $serenity-research to map this theme into demand shocks, value-chain layers, scarce constraints, second-order beneficiaries, evidence checks, and falsification conditions."
