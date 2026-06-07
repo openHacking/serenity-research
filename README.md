@@ -1,5 +1,7 @@
 # Serenity Research Skill
 
+[English](README.md) | [中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md)
+
 Serenity Research is an open-source AI skill for turning market narratives into structured investment research.
 
 It is inspired by public Serenity-style research patterns, but it is an original framework. The skill focuses on mapping a trend into demand shocks, value-chain layers, scarce constraints, second- and third-order beneficiaries, evidence quality, mispricing hypotheses, and falsification tests.
@@ -68,6 +70,10 @@ Use serenity-research to map the AI data-center power chain and rank the most in
 serenity-research/
 |-- SKILL.md
 |-- README.md
+|-- README.zh-CN.md
+|-- README.ja.md
+|-- README.ko.md
+|-- README.es.md
 |-- LICENSE
 |-- agents/
 |   `-- openai.yaml
